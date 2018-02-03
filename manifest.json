@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "FreeNews",
-  "description": "Notícias à vontade em sites que bloqueiam ou limitam o conteúdo para usuários não assinantes, tais como Folha de São Paulo, Estadão e etc...",
+  "description": "Notícias à vontade em sites que bloqueiam ou limitam o conteúdo para usuários não assinantes como a Folha de São Paulo e Estadão.",
   "version": "1.0",
 
   "background": {
@@ -11,8 +11,14 @@
     ]
   },
 
+  "icons": {
+    "48": "icon48.png",
+    "96": "icon96.png",
+    "128": "icon128.png"
+  },
+
   "browser_action": {
-    "default_title": "Notícias à vontade em sites que bloqueiam ou limitam o conteúdo para usuários não assinantes, tais como Folha de São Paulo, Estadão e etc..."
+    "default_title": "Notícias à vontade em sites que bloqueiam ou limitam o conteúdo para usuários não assinantes, tais como Folha de São Paulo e Estadão."
   },
 
   "permissions": [
