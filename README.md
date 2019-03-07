@@ -17,7 +17,14 @@ Com esta extensão para o navegador você poderá ler quantas notícias quiser s
 
 ## Como instalar? 
 
-[Instalar no Chrome](https://chrome.google.com/webstore/detail/freenews/ilajhcjodkeegpgkbgojhplgddmajenp)
+~~[Instalar no Chrome](https://chrome.google.com/webstore/detail/freenews/ilajhcjodkeegpgkbgojhplgddmajenp)~~ (Bloqueado na Chrome Web Store)
+
+ - Baixe esta extensão clicando em `Clone or download` como Zip e extraia para uma pasta.
+ - Abra seu painel de extensões do Chrome [chrome://extensions](chrome://extensions).
+ - Ative o modo desenvolvedor no topo direito da página.
+ - No topo esquerdo, clique no botão `Load unpacked` ou similar em Português.
+ - Escolha a pasta da extensão baixada e pronto!
+ - Caso tenha páginas de notícias abertas será necessário recarregar para funcionar
 
 ## Como funciona?
 
