@@ -3,7 +3,7 @@
 
   "name": "FreeNews",
   "description": "Notícias à vontade em sites que bloqueiam ou limitam o conteúdo para usuários não assinantes como a Folha de São Paulo e Estadão.",
-  "version": "1.0",
+  "version": "1.1",
 
   "background": {
     "scripts": [
@@ -25,7 +25,6 @@
     "webRequest",
     "webRequestBlocking",
     "tabs",
-    "*://*.folha.uol.com.br/*",
-    "*://acesso.estadao.com.br/*"
+    "<all_urls>"
   ]
 }
